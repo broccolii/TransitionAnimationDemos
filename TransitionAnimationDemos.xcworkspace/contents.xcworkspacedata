@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TransitionAnimation01/AnimationDemo1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TransitionAnimation02/Menu.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AnimationDemo03/AnimationDemo03.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AnimationDemo04/AnimationDemo04.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AnimationDemo05/AnimationDemo05.xcodeproj">
+   </FileRef>
+</Workspace>
