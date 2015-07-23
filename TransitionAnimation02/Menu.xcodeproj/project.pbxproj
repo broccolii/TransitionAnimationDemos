@@ -86,8 +86,8 @@
 				AF952A6319BCC8370042E7BE /* MainViewController.swift */,
 				AFC04D4F19BCBD9000AA30D6 /* MenuViewController.swift */,
 				AFC04D5119BCBD9000AA30D6 /* Main.storyboard */,
-				A4C4380D1B5A7CC1005FD603 /* TransitionManager.swift */,
 				A488921C1B5BD2D400974113 /* MenuTransitionManager.swift */,
+				A4C4380D1B5A7CC1005FD603 /* TransitionManager.swift */,
 				AFC04D4B19BCBD9000AA30D6 /* Supporting Files */,
 			);
 			path = Menu;
