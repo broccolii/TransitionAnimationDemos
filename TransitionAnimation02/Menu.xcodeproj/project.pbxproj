@@ -162,6 +162,7 @@
 		AFC04D4019BCBD9000AA30D6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = Mat;
 				TargetAttributes = {

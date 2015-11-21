@@ -156,6 +156,7 @@
 		A40A669E1B5D1E3500710E87 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = brocccoli;
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				A40A66C71B5D1E3500710E87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A40A66C81B5D1E3500710E87 /* Build configuration list for PBXNativeTarget "AnimationDemo03Tests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				A40A66CA1B5D1E3500710E87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

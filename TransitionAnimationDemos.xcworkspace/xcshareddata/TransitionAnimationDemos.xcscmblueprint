@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3DC2C4C227C4D522DBF5A827093CC0AB64D396BC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2ADE6DD5FE3F220904FC8623C0EDE339BC93A3D6" : 0,
+    "3DC2C4C227C4D522DBF5A827093CC0AB64D396BC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E814057F-A039-4F99-8888-DC7293940B0B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2ADE6DD5FE3F220904FC8623C0EDE339BC93A3D6" : "",
+    "3DC2C4C227C4D522DBF5A827093CC0AB64D396BC" : "TransitionAnimationDemos"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TransitionAnimationDemos",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TransitionAnimationDemos.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/broccolii\/LoadingView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2ADE6DD5FE3F220904FC8623C0EDE339BC93A3D6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/broccolii\/TransitionAnimationDemos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3DC2C4C227C4D522DBF5A827093CC0AB64D396BC"
+    }
+  ]
+}
